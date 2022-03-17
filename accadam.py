@@ -1,4 +1,5 @@
-from tensorflow.python.keras.optimizer_v2 import optimizer_v2
+#from tensorflow.python.keras.optimizer_v2 import optimizer_v2
+from keras.optimizer_v2 import optimizer_v2
 from tensorflow.python.ops import array_ops
 from tensorflow.python.ops import control_flow_ops
 from tensorflow.python.ops import math_ops
